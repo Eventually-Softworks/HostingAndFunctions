@@ -1,0 +1,12 @@
+# Created by https://www.gitignore.io/api/firebase
+
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+*/npm-debug.log
+lerna-debug.log
+*~
+service-account-credentials.json
+**/package-lock.json
+# End of https://www.gitignore.io/api/firebase
